@@ -56,7 +56,7 @@ O objetivo é demonstrar o uso prático de **bancos NoSQL (MongoDB e Redis)** in
 
 ## 🎥 Vídeo Demonstrativo
 
-📺 **MongoDB CRUD e Redis CRUD:** [https://youtu.be/seuvideoexplicativo](https://youtu.be/seuvideoexplicativo)
+📺 **MongoDB CRUD e Redis CRUD:** [https://youtu.be/seuvideoexplicativo](https://drive.google.com/file/d/1KDP5eMrK-sQ_zXRLqF95UrHv7EGE8cac/view?usp=sharing)
 
 
 Os vídeos mostram todas as operações CRUD sendo executadas em tempo real, incluindo:
