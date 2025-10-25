@@ -64,7 +64,6 @@ Os vídeos mostram todas as operações CRUD sendo executadas em tempo real, inc
 * Conexão com o banco
 * Inserção e listagem de registros
 * Atualização e exclusão de dados
-* (Opcional) Demonstração da interface gráfica
 
 ---
 
