@@ -16,9 +16,9 @@ O objetivo é demonstrar o uso prático de **bancos NoSQL (MongoDB e Redis)** in
 
 * Conexão com o **MongoDB Atlas (banco em nuvem)**
 * Operações CRUD completas em uma coleção (cadastro, listagem, atualização e exclusão)
-* Uso de **PyMongo** (Python) / **Mongoose** (Node.js) / **Java Driver** (dependendo da versão usada)
+*  **Java Driver** (dependendo da versão usada)
 * Estrutura modular com tratamento básico de erros
-* (Opcional) Interface web/GUI para +0,5 ponto bônus
+
 
 ---
 
